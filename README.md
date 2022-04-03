@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://github.com/EdilsonDev">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EdilsonDev&count_private=true&include_all_commits=true&show_icons=true&theme=vision-friendly-dark&hide_border=false&show_owner=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdilsonDev&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
